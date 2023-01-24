@@ -1,7 +1,7 @@
 from exception_handling import handle_exception
 from user_input import get_employee_info
 
-# Prosedur untuk mencetak informasi nilai mahasiswa
+# Prosedur untuk mencetak informasi gaji karyawan
 @handle_exception
 def print_employee_info(name, nip, golongan, gaji_dasar, honor_lembur, jumlah_lembur):
     golongan_gaji = {

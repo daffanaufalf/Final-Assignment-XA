@@ -1,4 +1,4 @@
-# Fungsi untuk mengambil input dari user
+# Fungsi input dari user
 def get_employee_info():
     name = input("Masukkan nama karyawan\t:  ")
     nip = input("Masukkan NIP\t\t:  ")

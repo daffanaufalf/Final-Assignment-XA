@@ -1,3 +1,4 @@
+# Program utama 
 from employee_info import print_employee_info
 from user_input import get_employee_info
 

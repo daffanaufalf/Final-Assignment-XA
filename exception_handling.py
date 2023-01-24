@@ -1,4 +1,4 @@
-# Modul untuk menangani kondisi pengecualian exception
+# Modul untuk menangani kondisi pengecualian (exception)
 def handle_exception(func):
     def wrapper(*args, **kwargs):
         try:
